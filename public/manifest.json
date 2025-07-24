@@ -23,21 +23,21 @@
   "shortcuts": [
     {
       "name": "Machine Search",
-      "short_name": "Cases",
+      "short_name": "Machine Search",
       "description": "View new covid- 19 cases",
       "url": "/?type=cases",
       "icons": [{ "src": "./images/icon-green.png", "sizes": "202x202" }]
     },
     {
       "name": "Downloads",
-      "short_name": "Deaths",
+      "short_name": "Downloads",
       "description": "View new covid- 19 Deaths",
       "url": "/?type=deaths",
       "icons": [{ "src": "./images/icon-green.png", "sizes": "202x202" }]
     },
     {
       "name": "Information",
-      "short_name": "Recovery",
+      "short_name": "Information",
       "description": "View new covid- 19 Recoveries",
       "url": "/?type=recovered",
       "icons": [{ "src": "./images/icon-green.png", "sizes": "204x204" }]
